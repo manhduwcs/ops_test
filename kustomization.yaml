@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: backend-test
-  newTag: 7114609ee727d78b084ca84578a9c0dae4e7af43
+  newTag: 9f197c99f2e78f0a4d6e046f45271524f0d345b0
